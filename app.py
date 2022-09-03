@@ -37,9 +37,9 @@ with col1:
        st.write('This Predictive model is all about to check how probabale is that a person  will claim their car insurnace. ')
        st.header('How This helps?')
        st.info('')
-       st.write('For a **User**, it will mean that he or she is more prone to accidents and should drive safely by keeping in mind that the probability of meeting an accident or harming someone is higher.')
+       st.write('👤For a **User**, it will mean that he or she is more prone to accidents and should drive safely by keeping in mind that the probability of meeting an accident or harming someone is higher.')
        st.info('')
-       st.write('For the **Insurers**, this model can help them to see how much their cost is risked against a certain amount of premium for which a customer is insured so that they can adjust their services accordingly.')
+       st.write('👨‍💼For the **Insurers**, this model can help them to see how much their cost is risked against a certain amount of premium for which a customer is insured so that they can adjust their services accordingly.')
 with col2:
        st.image('bg.jpg',width=500)
 
