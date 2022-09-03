@@ -10,7 +10,6 @@ from sklearn.metrics import accuracy_score
 
 data.drop(columns=['Unnamed: 0'],axis=1,inplace=True)
 
-
 x=data[['AGE', 'GENDER', 'DRIVING_EXPERIENCE', 'EDUCATION', 'INCOME',
        'CREDIT_SCORE', 'VEHICLE_OWNERSHIP', 'VEHICLE_YEAR', 'MARRIED',
        'ANNUAL_MILEAGE', 'VEHICLE_TYPE', 'SPEEDING_VIOLATIONS',
