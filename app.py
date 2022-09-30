@@ -34,7 +34,7 @@ st.warning(" ")
 st.title("Car Insurance Claim")
 col1,col2=st.columns(2)
 with col1:
-       st.write('This Predictive model is all about to check how probabale is that a person  will claim their car insurnace. ')
+       st.write('This Predictive model is all about to check how probable is that a person  will claim their car insurance. ')
        st.header('How This helps?')
        st.info('')
        st.write('👤For a **User**, it will mean that he or she is more prone to accidents and should drive safely by keeping in mind that the probability of meeting an accident or harming someone is higher.')
